@@ -1,0 +1,17 @@
+{
+  "name": "landing-page",
+  "homepage": "https://github.com/imcgonigle/landing-page",
+  "authors": [
+    "Ian McGonigle <ian.is.mcgonigle@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
